@@ -1,0 +1,3 @@
+rest_endpoints: 
+  - "http://data.actmapi.act.gov.au/arcgis/rest/services/actmapi"
+  - "http://test-data.actmapi.act.gov.au/arcgis/rest/services/actmapi"
